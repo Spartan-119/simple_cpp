@@ -1,0 +1,8 @@
+# ninja log v6
+2	563	1718572801119855217	CMakeFiles/InheritancePractice.dir/main.cpp.o	997ec173bb95dffc
+2	557	1718572801119855217	CMakeFiles/InheritancePractice.dir/Rectangle.cpp.o	2447a74d3b47fd78
+3	557	1718572801119855217	CMakeFiles/InheritancePractice.dir/Circle.cpp.o	fe40772cb4f302c2
+4	551	1718572801119855217	CMakeFiles/InheritancePractice.dir/Triangle.cpp.o	e216e6a85812f702
+1	46	1718572851296439367	build.ninja	ea66a0dae0c3619e
+2	543	1718572851312439550	CMakeFiles/InheritancePractice.dir/Shape.cpp.o	34bcab73f8a06646
+543	675	1718572851860445882	InheritancePractice	34493e05c8196f4c
